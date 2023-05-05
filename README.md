@@ -1,5 +1,5 @@
 # Homework
-Website RemindMe (completed version🤓)
+Website RemindMe (Completed version🤓)
 
 ![image](https://user-images.githubusercontent.com/120991965/236584494-3bb59c4c-d7d9-4ef0-94b1-4e36d14299d5.png)
 ![image](https://user-images.githubusercontent.com/120991965/236584535-1502fc64-ac62-458e-9258-0054e56f649e.png)
